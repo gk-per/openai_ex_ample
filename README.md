@@ -1,6 +1,6 @@
 # OpenaiExAmple
 
-**TODO: Add description**
+openai vector embeddings and redis
 
 ## Installation
 
